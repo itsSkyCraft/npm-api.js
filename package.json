@@ -1,0 +1,23 @@
+{
+  "name": "npm-api.js",
+  "version": "1.0.1",
+  "description": "A Package For Searching Npm package And more from npms.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsSkyCraft/npm-api.js.git"
+  },
+  "keywords": ["api", "npm", "package search", "package"],
+  "author": "theproggrammerguy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsSkyCraft/npm-api.js/issues"
+  },
+  "homepage": "https://github.com/itsSkyCraft/npm-api.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
